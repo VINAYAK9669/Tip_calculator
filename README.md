@@ -14,4 +14,4 @@ This project allows users to calculate tips based on the bill amount and selecte
 
 ## Demo
 
-![Tip Calculator Demo](path-to-demo-gif-or-screenshot)
+[Tip Calculator Demo](https://vinayak9669.github.io/Tip_calculator/)
